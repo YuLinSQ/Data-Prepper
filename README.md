@@ -5,6 +5,8 @@ As an AI enthusiast, I understand the importance of the quality of an AI model. 
 As a result, I created this general data processor in an attempt to shorten the arduous development cycle.
 # Solution:
 This is a 10-
+
+a
 # Architecture:
 a
 # Instructions for setup:
